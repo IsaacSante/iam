@@ -1,6 +1,6 @@
 //setup before functions
 let typingTimer;                //timer identifier
-let doneTypingInterval = 1000;  //time in ms (5 seconds)
+let doneTypingInterval = 3000;  //time in ms (5 seconds)
 let myInput = document.getElementById('edit');
 
 //on keyup, start the countdown
